@@ -1,0 +1,14 @@
+E:\compuer science material\.NET\CSharpFundementals\Design_Patterns\Design_Patterns\bin\Debug\net8.0\Design_Patterns.exe
+E:\compuer science material\.NET\CSharpFundementals\Design_Patterns\Design_Patterns\bin\Debug\net8.0\Design_Patterns.deps.json
+E:\compuer science material\.NET\CSharpFundementals\Design_Patterns\Design_Patterns\bin\Debug\net8.0\Design_Patterns.runtimeconfig.json
+E:\compuer science material\.NET\CSharpFundementals\Design_Patterns\Design_Patterns\bin\Debug\net8.0\Design_Patterns.dll
+E:\compuer science material\.NET\CSharpFundementals\Design_Patterns\Design_Patterns\bin\Debug\net8.0\Design_Patterns.pdb
+E:\compuer science material\.NET\CSharpFundementals\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.GeneratedMSBuildEditorConfig.editorconfig
+E:\compuer science material\.NET\CSharpFundementals\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.AssemblyInfoInputs.cache
+E:\compuer science material\.NET\CSharpFundementals\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.AssemblyInfo.cs
+E:\compuer science material\.NET\CSharpFundementals\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.csproj.CoreCompileInputs.cache
+E:\compuer science material\.NET\CSharpFundementals\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.dll
+E:\compuer science material\.NET\CSharpFundementals\Design_Patterns\Design_Patterns\obj\Debug\net8.0\refint\Design_Patterns.dll
+E:\compuer science material\.NET\CSharpFundementals\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.pdb
+E:\compuer science material\.NET\CSharpFundementals\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.genruntimeconfig.cache
+E:\compuer science material\.NET\CSharpFundementals\Design_Patterns\Design_Patterns\obj\Debug\net8.0\ref\Design_Patterns.dll
